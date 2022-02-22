@@ -1,0 +1,228 @@
+* {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+}
+h1 {
+    font-family: 'Yeseva One';
+}
+
+p {
+    font-size: 18px;
+    color: #7F8893;
+}
+
+hr {
+    margin: 0;
+    opacity: 1;
+}
+
+.index {
+    padding-top:200px;
+}
+
+.index h1 {
+    font-size: 70px;
+    text-align: center;
+}
+
+.index p {
+    padding-top:40px;
+}
+
+.index .btn {
+    padding:1rem 1rem;
+    border-radius: 30px;
+    width: 199px;
+}
+
+.index .btn-outline-primary {
+    border: 1px solid #A294FF;
+    color: black;
+}
+
+.index .btn-primary {
+    margin-left: 53px;
+    background-color: #9181FF;
+    border-color: #9181FF;
+}
+
+.index .btn-outline-primary:hover {
+    background-color: #A294FF;
+    color: #fff;
+}
+
+.img {
+    padding-top: 63px;
+    padding-bottom: 150px;
+}
+
+.img img {
+    width: 100%;
+}
+
+.bigigm {
+    background-color: #ECF0F7;
+}
+
+.bigigm .row>* {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.bigigm img {
+    height: 100%;
+    width: 100%;
+}
+
+.bigigm .add {
+    position: absolute;
+    cursor: pointer;
+    background: #A294FF;
+    height: 80px;
+    width: 80px;
+    background-image: url("../img/plus.png");
+    background-position: center;
+    background-repeat: no-repeat;   
+}
+
+.except {
+    padding-top: 119px;
+}
+
+.except a {
+    color: #373C42;
+}
+
+.except .other {
+    padding-top:150px;
+}
+
+.procedu {
+    background-color: #F8FE91;
+    margin-top: 130px;
+    padding-top:120px;
+    padding-bottom:120px;
+}
+
+.procedu a {
+    color: #373C42;
+}
+
+.procedu p {
+    color: #373C42;
+}
+
+.procedu .hr {
+    padding-top:50px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.procedu .hr hr {
+    background-color: #373C42;
+    height: 2px;
+}
+
+.procedu .hr h1 {
+    padding-top:37px;
+    padding-bottom: 37px;;
+}
+
+.about {
+    background-color: #8372F0;
+    padding-top:120px;
+    padding-bottom:120px
+}
+
+.about h1, p, a  {
+    color: #fff;
+}
+
+.about p {
+    padding-top:20px;
+}
+
+.about a {
+    color: #fff;
+}
+
+.about img {
+    height: 515px;
+}
+
+.values {
+    padding-top:120px;
+}
+.values p {
+    color: #7F8893;
+}
+
+.values .texted p {
+    padding-top:100px;
+    color: #222222;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+.values .texted hr {
+    background-color: #ABB9CA;
+}
+
+.accordion {
+    padding-top:50px;
+}
+
+.accordion .card {
+    padding:20px;
+    margin-top: 1rem;
+}
+
+.accordion .card-header {
+    background: none;
+    border-bottom: none;
+}
+
+.accordion .card-header a{
+    color:#373C42;
+    text-decoration: none;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+}
+
+.accordion .card-body {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+}
+
+.clients {
+    background-color: #8372F0;
+    margin-top:150px;
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
+.clients h1 {
+    padding-top:25px;
+    padding-bottom: 30px;
+    color: #fff
+}
+
+.clients img {
+    width: 100%;
+}
+
+footer {
+    background-color: #292E36;
+    padding: 30px;
+}
+
+footer a {
+    color: #fff;
+    text-decoration: none;
+    display: block;
+}
