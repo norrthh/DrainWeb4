@@ -94,6 +94,10 @@ hr {
     color: #373C42;
 }
 
+.except p {
+    color: black;
+}
+
 .except .other {
     padding-top:150px;
 }
@@ -148,7 +152,8 @@ hr {
 }
 
 .about img {
-    height: 515px;
+    height: 100%;
+    width: 100%;
 }
 
 .values {
